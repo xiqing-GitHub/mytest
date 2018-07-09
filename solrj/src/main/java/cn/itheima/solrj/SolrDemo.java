@@ -28,7 +28,7 @@ public class SolrDemo {
 	/**
 	 * 添加或更新索引
 	 * @throws IOException 
-	 * @throws SolrServerException 11111
+	 * @throws SolrServerException 
 	 */
 	
 	@Test
